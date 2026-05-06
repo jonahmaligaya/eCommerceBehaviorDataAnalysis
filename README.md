@@ -1,9 +1,22 @@
-# eCommerceBehaviorDataAnalysis
-An analysis of eCommerce behavior data from multi category store.
+📊 E-Commerce User Behavior Data Analysis
 
-I used this Kaggle dataset. https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?resource=download&select=2019-Oct.csv
+🧠 Project Overview
 
-sample_2019_october.csv is the first 10,001 rows of 2019-Oct.csv
+I analyzed user behavior of an e-commerce platform using SQL, PostgreSQL, and Power BI. My goal was to understand how users interact with the products on the store and identify why they rarely convert into customers.
 
+The analysis reveals a key insight:
 
-I took the data and cleaned it using SQL.
+Many users will browse products without ever purchasing anything.
+
+🎯 Business Problem
+
+E-commerce platforms often struggle with understanding why users do not convert into buyers despite a high volume of potential customers.
+
+How do users behave on the platform?
+Where do users drop off in the buying journey?
+
+🛠️ Tools Used
+PostgreSQL (data storage & querying)
+SQL (data transformation)
+Power BI (dashboard & visualization)
+📦 Dataset
