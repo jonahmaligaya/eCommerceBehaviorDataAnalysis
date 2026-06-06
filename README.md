@@ -16,7 +16,11 @@ How do users behave on the platform?
 Where do users drop off in the buying journey?
 
 🛠️ Tools Used
+
 PostgreSQL (data storage & querying)
+
 SQL (data transformation)
+
 Power BI (dashboard & visualization)
+
 📦 Dataset
