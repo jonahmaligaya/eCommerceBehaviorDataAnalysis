@@ -23,4 +23,10 @@ SQL (data transformation)
 
 Power BI (dashboard & visualization)
 
-📦 Dataset
+Dataset
+
+
+📸 Screenshots
+<img width="1163" height="642" alt="Image" src="https://github.com/user-attachments/assets/8a0daed0-5e91-4317-b070-08dcfaef0763" />
+<img width="1157" height="644" alt="Image" src="https://github.com/user-attachments/assets/c98bf3c9-f6d8-4018-884c-13ddfee45278" />
+<img width="1162" height="648" alt="Image" src="https://github.com/user-attachments/assets/be1b1a1b-77b2-45c4-b47f-c47ef951e46f" />
